@@ -4,6 +4,10 @@ h1{
     border: 5px dashed yellow
 }
 
+body{
+  background-color: tomato;
+}
+
 header h2{
     margin: 0 auto;
     max-width: 50%;
